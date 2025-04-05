@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovtrcosta.joaovtrcosta&left_color=green&right_color=darkgrey&left_text=Profile%20views"  />
+  <img src="https://komarev.com/ghpvc/?username=joaovtrcosta&label=Profile%20views&color=0e75b6&style=flat"  />
 </div>
 
 ###
