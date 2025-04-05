@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🔥 Skills</p>
+<h3 align="left">🔥 Skills</h3>
 
 ###
 
