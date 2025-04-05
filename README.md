@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="460" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY3bTVpenFoZTFjamdjb25rZmttNjNlOWloOW5yMnVxZW9jOHVmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif"  />
+  <img height="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjY3bTVpenFoZTFjamdjb25rZmttNjNlOWloOW5yMnVxZW9jOHVmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif"  />
 </div>
 
 ###
 
-<p align="center">Hi 👋, I'm João Vitor da da Costa</p>
+<h1 align="center">Hi 👋, I'm João Vitor da Costa</h1>
 
 ###
 
@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=joaovtrcosta&label=Profile%20views&color=green&style=flat"  />
+  <img src="https://komarev.com/ghpvc/?username=joaovtrcosta&label=Profile%20views&color=green&style=flat" alt="joaovtrcosta"  />
 </div>
 
 ###
@@ -43,5 +43,16 @@
 ###
 
 <img align="right" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIyb253MmdrMW96ejhoc285NWlucjNtaTJ6c2w1dzhtbDNjNWVobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10GVNnqO2ZoAh2/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovtrcosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="185" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtrcosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="195" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/joaovtrcosta/joaovtrcosta/output/snake.svg" alt="Snake animation" />
 
 ###
